@@ -3,7 +3,7 @@
 
 <h2> SQL Portfolio</h2>
 
-- <b>SQl Filters Practice (From Google Cyber security Certificate module- Linux and SQL)</b>
+- <b>SQL Filters Practice (From Google Cyber security Certificate module- Linux and SQL)</b>
   - [Using SQL](https://github.com/rilchief/Using-SQL)
 
 <h2> Web development - Porfolio</h2>
