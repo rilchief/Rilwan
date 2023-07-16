@@ -4,11 +4,9 @@
 
 - <b>SQl Filters Practice (From Google Cyber security Certificate module- Linux and SQL)</b>
   - [Using SQL](https://github.com/rilchief/Using-SQL)
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
-- <b>PowerShell</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
-  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
-- <b>C# (.NET Desktop Applications)</b>
+
+<h2> Web develoment - Porfolio</h2>
+<b>HTML and CSS (From ICT module while doing Access to HE diploma )</b>
+
+  - [Using HTML and CSS](https://github.com/rilchief/Using-SQL)
+
