@@ -6,7 +6,7 @@
 - <b>SQl Filters Practice (From Google Cyber security Certificate module- Linux and SQL)</b>
   - [Using SQL](https://github.com/rilchief/Using-SQL)
 
-<h2> Web develoment - Porfolio</h2>
+<h2> Web development - Porfolio</h2>
 <b>HTML and CSS (From ICT module while doing Access to HE diploma )</b>
 
   - [Using HTML and CSS](https://github.com/rilchief/popandexclusive)
