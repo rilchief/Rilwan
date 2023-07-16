@@ -11,12 +11,12 @@
 
   - [Using HTML and CSS](https://github.com/rilchief/popandexclusive)
 
-<h2> Excel - Porfolio</h2>
+<h2> Excel - Portfolio</h2>
 <b>Use of Excel(Statistics (From ICT and Satistics module while doing Access to HE diploma )</b>
 
   - [Using Excel for statictics](https://docs.google.com/spreadsheets/d/1mY_Q_5gxJzLWukSJsk9cXcNtnKpaiBMp/edit?usp=drive_link&ouid=110859359202279205936&rtpof=true&sd=true)
 
-<h2> Notes for Excel- Porfolio</h2>
+<h2> Notes for Excel- Portfolio</h2>
 <b>Explanation on  Calculators Built in Excel (Statistics (From ICT and Satistics module while doing Access to HE diploma )</b>
 
   - [Notes](https://docs.google.com/document/d/1Klu4DiVOmRYXWkJQNR9eAPoy2RnS_GoO/edit?usp=drive_link&ouid=110859359202279205936&rtpof=true&sd=true)
