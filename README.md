@@ -1,5 +1,5 @@
 <h1>Hi, I'm Rilwan! 
-  <br/><a href="https://github.com/rilchief/popandexclusive">Github</a>, <a href="https://www.linkedin.com/in/rilwan-ajelero-9639b4234/">Linkedin</a></h1>
+  <br/><a href="https://github.com/rilchief">Git Profile</a>, <a href="https://www.linkedin.com/in/rilwan-ajelero-9639b4234/">Linkedin</a></h1>
 
 <h2> SQL Portfolio</h2>
 
