@@ -2,8 +2,8 @@
 
 <h2> SQL Portfolio</h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+- <b>SQl Filters Practice (From Google Cyber security Certificate module- Linux and SQL)</b>
+  - [Using SQL](https://github.com/rilchief/Using-SQL)
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 - <b>PowerShell</b>
