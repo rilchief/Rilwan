@@ -11,4 +11,8 @@
 
   - [Using HTML and CSS](https://github.com/rilchief/popandexclusive)
 
+<h2> Excel - Porfolio</h2>
+<b>Use of Excel(Statistics (From ICT and Satistics module while doing Access to HE diploma )</b>
+
+  - [Excel](https://docs.google.com/spreadsheets/d/1mY_Q_5gxJzLWukSJsk9cXcNtnKpaiBMp/edit?usp=drive_link&ouid=110859359202279205936&rtpof=true&sd=true)
 
